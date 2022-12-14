@@ -10,8 +10,8 @@
 
 
 ## Education
-* <b> University of California, Santa Cruz </b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2022.6 
-<i>Bachelor of Science, Computer Engineering, Digital Hardware BS</i>
+* <div style="float:left;"><b>University of California, Santa Cruz</b></div> <div style="float:right; text-align:right">2018.9~2022.6</div>
+  * <i>Bachelor of Science, Computer Engineering, Digital Hardware BS</i>
 * <b> Honors:</b> Dean's List(19, 20 Spring, 20 Fall, 21 Winter, 21 Spring, 22 Spring)
 * <b> Related Courses: </b> Computer architecture; Analog Electronics; Logic Design with Verilog; Embedded System Design; VLSI; Data Structures and Algorithms; Advanced Programming
 
