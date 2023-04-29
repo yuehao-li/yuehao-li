@@ -5,7 +5,7 @@
 ## Information
 * <b>Gender：</b>Male      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<b>Age：</b>23  
 * <b>Phone：</b>8313341957 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;<b>E-mail：</b>yli509@ucsc.edu 
-* <b> github：</b> https://github.com/yuehao-li
+
 
 
 
