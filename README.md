@@ -21,10 +21,6 @@
   * Currently in charge of software development for the SMS part of the App (IOS & Android) and optimizing the message caching function to improve the running speed of the app greatly
 
 
-## Research & Project
-
-
-
 
 ## Activities & Leadership Experience
 * <b> Tutor, CSE100 Logic Design (Verilog)</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2022.5
