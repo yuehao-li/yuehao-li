@@ -2,18 +2,13 @@
      <h1>Yuehao Li</h1>
  </center>
 
-## Information
-* <b>Gender：</b>Male      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<b>Age：</b>23  
-* <b>Phone：</b>8313341957 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;<b>E-mail：</b>yli509@ucsc.edu 
-
-
-
 
 ## Education
 * <div style="float:left;"><b>University of California, Santa Cruz</b></div> <div style="float:right; text-align:right">2018.9~2022.6</div>
   * <i>Bachelor of Science, Computer Engineering, Digital Hardware BS</i>
-* <b> Honors:</b> Dean's List(19, 20 Spring, 20 Fall, 21 Winter, 21 Spring, 22 Spring)
+* <div style="float:left;"><b>University of California, San Diego</b></div> <div style="float:right; text-align:right">2024.9~2026.6</div>
 * <b> Related Courses: </b> Computer architecture; Analog Electronics; Logic Design with Verilog; Embedded System Design; VLSI; Data Structures and Algorithms; Advanced Programming
+
 
 ## Work Experience
 * <b> Cuddly LLC, Software Engineer Intern </b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.11~Present
